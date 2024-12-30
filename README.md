@@ -11,7 +11,7 @@
     <h2>👨‍💻 Technologies</h2>
     <p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,py,java,md,vscode,linux,windows,&perline=5" />
+        <img src="https://skillicons.dev/icons?i=git,github,py,java,md,vscode,linux,windows,&perline=8" />
       </a>
     </p>
   </div>
